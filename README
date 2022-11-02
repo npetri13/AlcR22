@@ -1,0 +1,9 @@
+# The Alcohol Formula
+
+Reference implementation of the density formula for alcohol-water mixtures (AWM). according to OIML from the year 1973 (OIMLR22).  
+By [@npetri13](https://github.com/npetri13)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
